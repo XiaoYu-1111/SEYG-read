@@ -1,0 +1,2 @@
+# SEYG-read
+segy-plot
